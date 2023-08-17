@@ -16,4 +16,6 @@ I DID NOT THOROUGHLY TEST THIS!!!!
 
 ```$ python3 addSums.py k n```
 
+- python3 may just be python in your environment
+
 it outputs a list of combinations that equal N
